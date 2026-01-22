@@ -6,10 +6,10 @@
     android:orientation="vertical"
     tools:context=".HomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
         android:text="@string/hello_blank_fragment" />
 
     <Button
@@ -18,6 +18,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        android:text="@string/to_profile"/>
+        android:text="@string/to_category"/>
 
 </LinearLayout>
